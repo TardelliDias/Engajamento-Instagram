@@ -61,9 +61,7 @@ Em andamento
 
 - O marketing de conteúdo é feito por pessoas e para pessoas, desta forma é um fator humanizador importante. Conectar-se com pessoas vai além do relacionamento estrito da venda, e sim, relacionando-se com confiança, emoção, histórias, necessidades e crenças. 
 
-- 
-
-[Acesse o relatório final.](relatorio_final.md)
+- [Acesse o relatório final.](relatorio_final.md)
 
 ## Contato
 

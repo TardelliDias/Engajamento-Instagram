@@ -90,7 +90,7 @@ A análise foi conduzida utilizando técnicas de análise exploratória de dados
 
 ## 👨‍💻 Autor
 
-**Tardelli Dias**
-🔗 GitHub: https://github.com/TardelliDias
-🔗 LinkedIn: https://www.linkedin.com/in/tardelli-dias/
+**Tardelli Dias** <br>
+🔗 GitHub: https://github.com/TardelliDias<br>
+🔗 LinkedIn: https://www.linkedin.com/in/tardelli-dias/<br>
 🔗 Discord: https://discord.com/users/tardellif

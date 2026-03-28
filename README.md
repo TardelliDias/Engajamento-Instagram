@@ -1,73 +1,96 @@
-# <h1 align='center'>Análise do Engajamento no Instagram</h1>
+# 📱 Análise de Engajamento no Instagram
 
-## Descrição
-Analisar  a partir de uma base de dados da **Empresa X** no Instagram para identificar quais tipos de postagens tem mais interações com o público.
+## 🚀 Visão Geral
 
-## Objetivos
+Este projeto realiza uma análise de dados de engajamento em postagens do Instagram, com o objetivo de identificar padrões de interação dos usuários.
 
-- Qual tipo de conteúdo mais engaja no Instagram da **Empresa X**?
+O engajamento é uma métrica essencial para avaliar o desempenho de conteúdo em redes sociais e apoiar estratégias de crescimento digital.
 
-- Qual tag mais engaja nas pubicações?
+---
 
-~~~~
-Observações:
+## 🎯 Problema de Negócio
 
-- Ignorar a coluna visualizações, pois queremos entender apenas as curtidas, os comentários e as interações
+Criadores de conteúdo e empresas precisam entender quais fatores influenciam o engajamento.
 
-- As tags que estão vazias, significam que de fato não possuem tag (favor tratar como vazio).
-~~~~
+**Pergunta-chave:**
 
-* ## Status do Projeto
+> Quais características estão associadas a maior engajamento nas postagens?
 
-Em andamento
+---
 
-## Tecnologias Utilizadas
+## 🧠 Abordagem
 
-* `Python` - Linguagem base para o projeto
+A análise foi conduzida utilizando técnicas de análise exploratória de dados (EDA):
 
-* `Pandas` - Biblioteca para análise e exploração dos dados
+* Tratamento e limpeza dos dados
+* Cálculo de métricas de engajamento
+* Análise de padrões de interação
+* Visualização de dados
 
-* `Markdown` - Apresentação e documentação
+---
 
-* `Jupyter Notebook` - Ambiente de desenvolvimento e execução 
+## 🛠️ Tecnologias Utilizadas
 
-## Resultados
+* Python
+* Pandas
+* Matplotlib / Seaborn
 
-- Em uma análise inicial, postagens incluindo pessoas,  engajam muito mais que aquelas que não possui ninguém.
+---
 
-- Postagens em épocas de campanha também possuem um melhor engajamento
+## 📊 Etapas da Análise
 
-- Nessa base, o carrossel não foi um diferencial para melhorar o engajamento da marca
+### 🔍 1. Preparação dos Dados
 
-- Ter o rosto de outras pessoas é fundamental para um bom enganjamento na publicação.
-    - Em todas as tags, quando havia uma pessoa, o resultado foi muito melhor.
+* Tratamento de inconsistências
+* Organização das variáveis
 
-- Criar campanhas ajudam muito na divulgação da marca.
+---
 
-- Promoções tiveram um desempendo absurdamente maior que qualquer outra tag.
-    - Porém pe uma tag que pode ter custo para a loja, o que deve ser analisado.
+### 📈 2. Análise de Engajamento
 
-- Usar conteúdos que estão em trend também ajudam na divulgação da marca, mesmo sendo a trend sendo de outros nichos.
+* Avaliação de curtidas e comentários
+* Comparação entre tipos de postagens
+* Identificação de padrões
 
-- A melhor maneira de mostrar os produtos é através de outras pessoas e, se possível, em campanhas de datas especiais.
+---
 
-- Para novos produtos a inclusão de pessoas é mais crítica ainda, sendo quase o dobro quando há um rosto junto ao produto.
+## 💡 Principais Insights
 
-- Não podemos afirmar que a tag *Loja* é ruim até testarmos essa tag incluindo pessoas ou em uma campanha.
+* Determinados tipos de conteúdo apresentam maior engajamento
+* Interação dos usuários varia conforme características da postagem
+* Métricas de engajamento podem orientar estratégias de conteúdo
 
-- Continuaremos a monitorar as postagens para encontrar novos padrões, dado que ainda temo poucas informações de base.
+---
 
-## Conclusão
+## 📁 Estrutura do Projeto
 
-- O marketing de conteúdo é feito por pessoas e para pessoas, desta forma é um fator humanizador importante. Conectar-se com pessoas vai além do relacionamento estrito da venda, e sim, relacionando-se com confiança, emoção, histórias, necessidades e crenças. 
+```id="insta1"
+├── dados/
+├── notebooks/
+└── README.md
+```
 
-- [Acesse o relatório final.](relatorio_final.md)
+---
 
-## Contato
+## 🚀 Possíveis Aplicações
 
-**Nome:** Tardelli Dias <br>
-**E-mail:** tardelli.dias@gmail.com <br>
-**LinkedIn:** https://www.linkedin.com/in/tardelli-dias/ <br>
-**Discord:** https://discord.com/users/tardellif<br>
-- - -
-📚 ***Projeto com fins educacionais.***
+* Estratégias de marketing digital
+* Otimização de conteúdo
+* Crescimento de audiência
+
+---
+
+## 🔮 Próximos Passos
+
+* Criação de modelo preditivo de engajamento
+* Integração com APIs de redes sociais
+* Dashboard interativo
+
+---
+
+## 👨‍💻 Autor
+
+**Tardelli Dias**
+🔗 GitHub: https://github.com/TardelliDias
+🔗 LinkedIn: https://www.linkedin.com/in/tardelli-dias/
+🔗 Discord: https://discord.com/users/tardellif
